@@ -43,5 +43,4 @@ allure serve allure-results
 
 **Below the suites run are shown via Allure :**
 
-![allure-suites](https://user-images.githubusercontent.com/55280106/187321124-28feca0b-2539-47f0-956c-34fe06134928.png)
-
+![allure-suites](https://user-images.githubusercontent.com/55280106/187423979-c12c105c-278d-4e9f-8f4e-179ff13ce7ca.png)
